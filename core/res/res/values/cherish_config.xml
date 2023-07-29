@@ -319,7 +319,7 @@
     <string name="config_batterymeterLandErrorPerimeterPathiOS16" translatable="false">@string/config_batterymeterLandPerimeterPathiOS16</string>
 	
 	<!-- Whether the device supports Smart Pixels -->
-    <bool name="config_supportSmartPixels">false</bool>
+    <bool name="config_supportSmartPixels">true</bool>
 
   <!-- Parallel space max count. Should overlay according to device performance. -->
     <integer name="config_parallelSpaceMaxCount">9</integer>
